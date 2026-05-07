@@ -45,7 +45,7 @@ const Footer: React.FC = () => {
                     <span>Oregon State University</span>
                 </a>
 
-                <a href="https://github.com/bradfiep/CS.067-Self-Organizing-AI-Agents-at-the-Edge" style={linkStyle} aria-label="GitHub">
+                <a href="https://github.com/sarahsatchell/CS.067-Self-Organizing-AI-Agents-at-the-Edge" style={linkStyle} aria-label="GitHub">
                     <span>GitHub</span>
                     <img src="../src/assets/github_logo.png" alt="GitHub Logo" style={{ height: 40, verticalAlign: "middle" }} />
                 </a>
